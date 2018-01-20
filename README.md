@@ -8,15 +8,15 @@
 
 &nbsp;
 
-## Install
-..
-
 ## Server Specifications
 - Ubuntu 16.04
 - Nginx, redis, and MySQL, Python, Ruby (compass)
 - Node ^7.0.0
 - Python hashids and mysqldb modules
 - GraphicsMagick 1.3.19+
+
+## Install
+..
 
 ## Credits
 ..
